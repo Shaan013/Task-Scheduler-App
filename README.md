@@ -4,6 +4,8 @@
 
 This Java application, created by Shaan Patel, allows users to manage and prioritize tasks based on priority and duration. Tasks can be scheduled and analyzed to help users effectively organize their workload. The app provides a simple GUI built with AWT for adding tasks, scheduling them by priority, and analyzing their total time and efficiency.
 
+![Task Scheduler Screenshot](image/taskSchedulerApp.png)
+
 ## Table of Contents
 - [Features](#features)
 - [Requirements](#requirements)
