@@ -30,8 +30,8 @@ This Java application, created by Shaan Patel, allows users to manage and priori
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Shaan013/ask-Scheduler-App.git
-   cd TaskSchedulerApp
+   git clone https://github.com/Shaan013/Task-Scheduler-App.git
+   cd Task-Scheduler-App
    ```
 
 2. **Compile the program**:
